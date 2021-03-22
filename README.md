@@ -7,3 +7,5 @@ Residual-networks ResNets,
 keras.
 
 Neural Networks and Deep Learning: Shallow Neural Network, Deep Neural Network
+
+Sequence models: Natural Language Processing, Recurrent Neural Networks, Sequence Models
