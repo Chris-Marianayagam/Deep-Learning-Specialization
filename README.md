@@ -5,3 +5,5 @@ Face recognition,
 Neural Style Transfer,
 Residual-networks ResNets,
 keras.
+
+Neural Networks and Deep Learning: Shallow Neural Network, Deep Neural Network
